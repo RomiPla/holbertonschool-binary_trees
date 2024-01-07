@@ -3,8 +3,9 @@
  * binary_tree_height - Measures the height of a binary tree.
  * @tree: A pointer to the root node of the tree to measure the height.
  *
- * Como El factor de equilibrio de un árbol binario se define como la diferencia
- * entre las alturas del subárbol izquierdo y el subárbol derecho hice una funcion extra para las alturas
+ * Como El factor de equilibrio de un árbol binario se define
+ * como la diferencia entre las alturas del subárbol izquierdo
+ * y el subárbol derecho hice una funcion extra para las alturas.
  *
  * Return: The height of the tree. If tree is NULL, return -1.
  */
